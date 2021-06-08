@@ -7,7 +7,7 @@ Minecraft Bot Spammer in Javascript using Mineflayer !
 
 # How to use
 1. He asks questions, they must be answered. 
-2. Run install_and_run to install dependencies and run the generator
+
 
 # How does it work
 The tool only works for cracked minecraft servers !
