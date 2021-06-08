@@ -9,7 +9,7 @@ Minecraft Bot Spammer in Javascript using Mineflayer !
 1. He asks questions, they must be answered. 
 
 
-# How does it work
+# Why it does not work? 
 The tool only works for cracked minecraft servers !
 If that doesn't work, check that you have set IPv4 in the 1st question. The SRV protocol is poorly managed. (To find the IPV4 please go to: mcsrvstat.us)
 
